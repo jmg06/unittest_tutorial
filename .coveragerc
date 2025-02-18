@@ -1,0 +1,7 @@
+[run]
+source = src
+omit =
+    src\__init__.py
+    src\logic\__init__.py
+    src\model\*
+    src\view\*
